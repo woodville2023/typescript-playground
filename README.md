@@ -17,7 +17,7 @@ After installation then run\
 Install ts-node if not installed\
   `npm install -g ts-node`\
 After installation type\
-  `ts-node`
+  `ts-node -v`
 \
 Create a file called tsconfig.json with the following contents\
 ```
@@ -80,10 +80,15 @@ With the file open in the editor\
 On the VS code MenuBar
 ```
 Go To Run Menu
+
 Click Run Without Debugging
+
 You will see on the bottom , a Panel named
+
 Debug Console
+
 you will see the output here
+
 Do this evertime you want to test/run your code
 
 ```
